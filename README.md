@@ -4,7 +4,7 @@ I'm a full-stack developer and AI enthusiast from Indonesia. I started in Chemis
 
 ## 🚀 What I'm up to
 
-- 🎮 Currently working on a personal project [pixel game](https://demopixelgame-peollines-projects.vercel.app/)
+- 🎮 Currently working on my portfolio and personal project [pixel game](https://demopixelgame-peollines-projects.vercel.app/)
 - 📫 Reach me at **ermadilarasati@gmail.com**
 - 💼 Check out my experiences on [LinkedIn](http://www.linkedin.com/in/ermadilarasati)
 - ⚡ Fun fact: I discovered my love for programming while building a pixel game!
