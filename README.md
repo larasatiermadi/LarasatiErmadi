@@ -10,7 +10,7 @@ My background is in Chemistry and Biotechnology, but I pivoted into engineering 
 
 ## 🚀 What I'm up to
 
-- 🏢 Full-Stack Software Developer at **LippyAI** — building enterprise Voice AI platforms with Next.js 14, React 18, and 40+ REST APIs
+- 🏢 Full-Stack Software Developer — building enterprise Voice AI platforms with Next.js 14, React 18, and 40+ REST APIs
 - 🖥️ Check out my interactive [Portfolio](https://github.com/larasatiermadi/larasati-portfolio) — a fully functional Windows-style desktop experience built with Next.js
 - 🎮 Building personal projects: [EHM - 2D RPG](https://larasati-ehm-rpg.vercel.app/) | [Wordle Multiplayer](https://larasati-wordle.vercel.app/) | [Sorting Visualizer](https://larasati-sorting-visualizer.vercel.app/) | [Typing Test](https://larasati-typing-test.vercel.app/)
 
